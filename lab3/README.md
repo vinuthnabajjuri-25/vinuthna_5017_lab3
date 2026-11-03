@@ -12,7 +12,7 @@
 
 ## Deployment URL
 
-**Render URL:** Add your Lab 3 Render deployment URL here after deployment.
+**Render URL:** https://vinuthna-5017-lab3.onrender.com/books 
 
 ## Project Description
 
@@ -60,7 +60,7 @@ lab3/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
 ```
 
 ### 2. Open the project folder
